@@ -70,8 +70,9 @@ div#corpoesq{
     box-shadow: 20px 20px 20px 1px rgba(53, 52, 52, 0.1);
 }
 div#corpoesq h2{
-    color: rgba(75,34,224,.5);
+    color: #555374;
     margin-right: 60px;
+    font-size: 14pt;
 }
 h3#re{
     font-size: 13pt;
