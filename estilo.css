@@ -43,8 +43,9 @@ div#circulo h1{
     font-size: 40pt;
 }
 div#circulo h5{
+    margin-top: -30px;
     color: rgba(255, 255, 255, .5);
-    font-size: 13pt;
+    font-size: 10pt;
 }
 div#corpodir h2{
     color: rgb(255, 255, 255);
