@@ -41,11 +41,23 @@ div#geral{
     height: 445px;
     margin-top: 160px;
 }
-div#corpodir h1{
+div#circulo{
+    text-align: center;
+    margin-left: 25px;
+    padding: 15px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    box-shadow: inset 10px 50px 70px rgb(75, 34, 224),
+              inset -10px -10px 1px rgb(86, 70, 231);
+}
+div#circulo h1{
     color: white;
     font-size: 40pt;
-    margin-bottom: 0px;
-    margin-top: 60px;
+}
+div#circulo h5{
+    color: rgba(255, 255, 255, .5);
+    font-size: 13pt;
 }
 div#corpodir h2{
     color: rgb(255, 255, 255);
@@ -56,9 +68,4 @@ div#corpodir h3{
 div#corpodir h4{
     color: rgb(255, 255, 255,.4);
     font-size: 12pt;
-}
-div#corpodir h5{
-    color: rgb(255, 255, 255,.4);
-    margin-top: 0px;
-    margin-bottom: 60px;
 }
