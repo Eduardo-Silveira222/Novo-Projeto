@@ -20,19 +20,6 @@ div#corpodir{
     text-align: center;
     box-shadow: 0px 20px -2px 1px rgba(53, 52, 52, 0.1);
 }
-div#corpoesq{
-    position: relative;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin-top: 0px;
-    margin-right: -200px;
-    background-color: white;
-    padding: 20px;
-    width: 280px;
-    height: 400px;
-    text-align: right;
-    border-radius: 0px 20px 20px 0px;
-    box-shadow: 20px 20px 20px 1px rgba(53, 52, 52, 0.1);
-}
 div#geral{
     display: flex;
     justify-content: center;
@@ -68,4 +55,24 @@ div#corpodir h3{
 div#corpodir h4{
     color: rgb(255, 255, 255,.4);
     font-size: 12pt;
+}
+div#corpoesq{
+    position: relative;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 0px;
+    margin-right: -200px;
+    background-color: white;
+    padding: 20px;
+    width: 280px;
+    height: 400px;
+    text-align: right;
+    border-radius: 0px 20px 20px 0px;
+    box-shadow: 20px 20px 20px 1px rgba(53, 52, 52, 0.1);
+}
+div#corpoesq h2{
+    color: rgba(75,34,224,.5);
+    margin-right: 60px;
+}
+h3#re{
+    color: rgb(226, 192, 0);
 }
